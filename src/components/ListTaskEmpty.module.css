@@ -1,0 +1,14 @@
+.listTaskEmpty {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 4rem 1.5rem;
+  gap: 1rem;
+
+  justify-content: center;
+  align-items: center;
+
+  border: 0;
+  border-top: 1px solid var(--gray-400);
+  border-radius: 8px;
+}
